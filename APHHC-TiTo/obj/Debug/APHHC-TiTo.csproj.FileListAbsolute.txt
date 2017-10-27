@@ -1,0 +1,11 @@
+c:\users\evie\documents\visual studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\bin\Debug\APHHC-TiTo.exe.config
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\obj\Debug\APHHC-TiTo.csproj.GenerateResource.Cache
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\bin\Debug\APHHC-TiTo.exe
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\bin\Debug\APHHC-TiTo.pdb
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\obj\Debug\APHHC_TiTo.Properties.Resources.resources
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\obj\Debug\APHHC-TiTo.exe
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\obj\Debug\APHHC-TiTo.pdb
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\obj\Debug\APHHC_TiTo.Main.resources
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\obj\Debug\APHHC_TiTo.Password.resources
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\obj\Debug\APHHC_TiTo.Register.resources
+C:\Users\Evie\Documents\Visual Studio 2015\Projects\APHHC-TiTo\APHHC-TiTo\obj\Debug\APHHC-TiTo.csprojResolveAssemblyReference.cache
